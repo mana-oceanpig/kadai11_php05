@@ -49,10 +49,10 @@ include "funcs.php";
 	<div class="layout-about">
 		<h2 class="section-title section-title__blue">About</h2>
 		<div class="section-sentence">
-			<p class="section-paragraph">BlueTripは、厳選された「エココンシャス」な旅をお届けするサービスです。</p>
+			<p class="section-paragraph">BlueTripは、厳選された「エコ × ウェルネス」な旅をお届けするサービスです。</p>
 			<p class="section-paragraph">私の原点は、海の中に潜った時の感情からスタートしています。<br>
 			美しい青、いろとりどりの魚たち。緑色の山々、森の中の静けさ。</p>
-			<p class="section-paragraph">そんな「自然に還る」体験をしながら、地球のことを考えませんか。</p>
+			<p class="section-paragraph">そんな「自然に還る」リラックス体験をしながら、地球のことを考えませんか。</p>
 			<p class="section-paragraph">私たちが厳選した場所や宿泊先のご紹介はもちろん<br>
 		あなたが見つけた取っておきの場所の保存・再訪をサポートします。</p>
 		<p class="section-paragraph">尚、こちらで購入いただいた旅体験は、指定の「サンゴ植付活動」や「植林活動」に一部寄付が行われます。<br>
